@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">爱豆瓣</string>
+    <string name="action_settings">设置</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_movies_fragment">电影Fragment</string>
+    <string name="hello_books_fragment">书籍Fragment</string>
+
+    <string name="tab_movies_fragment">电影</string>
+    <string name="tab_books_fragment">书籍</string>
+    <string name="hot_movies">正在热映</string>
+
+    <string name="string_no_note">暂无评分</string>
+
+    <string name="movie_info">影片信息</string>
+    <string name="movie_description">简介</string>
+    <string name="movie_directors">导演：</string>
+    <string name="movie_casts">主演：</string>
+    <string name="movie_aka">又名：</string>
+    <string name="movie_year">上映：</string>
+    <string name="movie_genres">类型：</string>
+    <string name="movie_during">片长：</string>
+    <string name="movie_countries">地区：</string>
+    <string name="movie_languages">语言：</string>
+    <string name="movie_imdb">IMDb：</string>
+    <string name="movie_not_find">无法获取</string>
+
+    <string name="no_books">没有书籍数据</string>
+    <string name="prefix_subtitle">副标题: %1$s</string>
+    <string name="prefix_author">作者: %1$s</string>
+    <string name="prefix_pubdata">出版日期: %1$s</string>
+    <string name="prefix_pages">页数: %1$s</string>
+    <string name="prefix_price">定价: %1$s</string>
+
+    <string name="book_content_desc">内容简介</string>
+    <string name="book_author_desc">作者简介</string>
+    <string name="book_catalog">目录</string>
+
+    <string name="content_no_loadmore">没有更多内容...</string>
+    <string name="no_movies">没有电影数据</string>
+
+    <string name="drawer_open" >打开</string>
+    <string name="drawer_close" >关闭</string>
+    <string name="navigation_movies">电影</string>
+    <string name="navigation_book">读书</string>
+    <string name="navigation_blog">博客</string>
+    <string name="navigation_about">关于</string>
+    <string name="navigation_login">登录</string>
+    <string name="navigation_logout">退出</string>
+
+    <string name="no_blog">没有博客内容</string>
+    <string name="about_me">App Demo参看github： \nhttps://github.com/tancolo/IDouban \n\nCSDN博客：\nhttps://blog.csdn.net/qq_29375837</string>
+    <string name="author_name">蓝莲花</string>
+    <string name="label_login_tips">所见即所得</string>
+    <string name="btn_login_text">登录</string>
+    <string name="btn_logout_text">退出</string>
+    <string name="view_login_title_tip">你可以解锁更多</string>
+
+    <string name="view_login_weibo">微博</string>
+    <string name="view_login_wechat">微信</string>
+    <string name="view_login_qq">QQ</string>
+
+    <string name="view_login_profile_name">你的名字</string>
+
+    <string name="auth_cancel">授权操作已取消</string>
+    <string name="auth_error">授权操作遇到错误，请阅读Logcat输出; \n 如微信登录，需要微信客户端</string>
+    <string name="auth_complete">授权成功，正在跳转登录操作…</string>
+
+    <string name="view_set_logout_success">您已成功退出!</string>
+    <string name="view_set_login_success">您已成功登录!</string>
+
+    <string name="toast_login_error_network">授权出现问题，再试一次吧!</string>
+
+    <string name="fab_tips">亲，FAB做什么您说了算！</string>
+
+</resources>
